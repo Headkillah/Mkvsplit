@@ -1,0 +1,63 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero"
+	mc:Ignorable="d"
+	x:Class="mkvsplit.RangeDispalyControl"
+	x:Name="UserControl">
+
+    <UserControl.Resources>
+        <LinearGradientBrush x:Key="TextBoxBorder" EndPoint="0,20" MappingMode="Absolute" StartPoint="0,0">
+            <GradientStop Color="#ABADB3" Offset="0.05"/>
+            <GradientStop Color="#E2E3EA" Offset="0.07"/>
+            <GradientStop Color="#E3E9EF" Offset="1"/>
+        </LinearGradientBrush>
+    </UserControl.Resources>
+
+    <Border BorderThickness="1" CornerRadius="5" Margin="5,0,5,5">
+        <Border.BorderBrush>
+            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveCaptionTextColorKey}}"/>
+        </Border.BorderBrush>
+        <StackPanel Orientation="Vertical" >
+            <Label x:Name="AddSign" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,-10,0,-16" Visibility="Collapsed" >
+                <Label.Foreground>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                </Label.Foreground>
+                <TextBlock FontSize="20" FontWeight="Black" Text="+" Foreground="WhiteSmoke" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </Label>
+            <Grid >
+                <Label x:Name="LabelNumber"  >
+                    <Label.Foreground>
+                        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                    </Label.Foreground>
+                </Label>
+                <Button x:Name="ButtonDeleteRange" Content="X"  VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,5,5,5" Width="{Binding ActualHeight, ElementName=ButtonDeleteRange}" Height="18" Padding="1,-2,1,1" Click="ButtonDeleteRange_Click"/>
+                <Button x:Name="ButtonMoveRangeUp" Content="↑"  VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,5,45,5" Width="{Binding ActualHeight, ElementName=ButtonDeleteRange}" Height="18" Padding="1,-2,1,1" Click="ButtonMoveRangeUp_Click"/>
+                <Button x:Name="ButtonMoveRangeDown" Content="↓"  VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,5,25,5" Width="{Binding ActualHeight, ElementName=ButtonDeleteRange}" Height="18" Padding="1,-2,1,1" Click="ButtonMoveRangeDown_Click"/>
+            </Grid>
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                    <Label Content ="Start time" HorizontalAlignment="Center">
+                        <Label.Foreground>
+                            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                        </Label.Foreground>
+                    </Label>
+                    <Button Content="Grab time&#xD;&#xA;from MPC" FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Click="GrabStartTimeFromPlayerButtonClick"/>
+                    <TextBox x:Name="TextBoxStartTime"  HorizontalAlignment="Center" Foreground="WhiteSmoke" Background="{x:Null}" BorderBrush="{x:Null}" GotFocus="TextBoxTime_GotFocus" LostFocus="TextBoxTime_LostFocus"  />
+                </StackPanel>
+                <Label Content="—" VerticalAlignment="Bottom" Foreground="WhiteSmoke"/>
+                <StackPanel>
+                    <Label Content="Finish time" HorizontalAlignment="Center">
+                        <Label.Foreground>
+                            <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                        </Label.Foreground>
+                    </Label>
+                    <Button Content="Grab time&#xD;&#xA;from MPC" FontSize="10" HorizontalAlignment="Center" VerticalAlignment="Center" Click="GrabFinishTimeFromPlayerButtonClick"  />
+                    <TextBox x:Name="TextBoxFinishTime"  HorizontalAlignment="Center" Foreground="WhiteSmoke" BorderBrush="{x:Null}" Background="{x:Null}" GotFocus="TextBoxTime_GotFocus" LostFocus="TextBoxTime_LostFocus" />
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</UserControl>

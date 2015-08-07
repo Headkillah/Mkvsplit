@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@2 @3 @4 Member=(Name=ButtonMmgPathOpen_Click @15))" Category="CodeSchema_Method" Bounds="592.485084582027,55.9599999999999,182.383333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ButtonMmgPathOpen_Click" FunctionTypeFlags="Method" Label="ButtonMmgPathOpen_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=123 StartCharacterOffset=0 EndLineNumber=123 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=ButtonOpen_Click @15))" Category="CodeSchema_Method" Bounds="392.816792251551,111.92,130.52,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ButtonOpen_Click" FunctionTypeFlags="Method" Label="ButtonOpen_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=84 StartCharacterOffset=0 EndLineNumber=84 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=CheckingFileExisting OverloadingParameters=[@8,@8]))" Category="CodeSchema_Method" Bounds="-1.13686837721616E-13,111.92,143.123333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="CheckingFileExisting" FunctionTypeFlags="Method" Label="CheckingFileExisting" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=366 StartCharacterOffset=0 EndLineNumber=366 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=ConvertingTime OverloadingParameters=[@8,@8,@8,@8,@18]))" Category="CodeSchema_Method" Bounds="947.438443226632,167.88,120.083333333333,25.96" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsStatic="True" CommonLabel="ConvertingTime" FunctionTypeFlags="Method" Label="ConvertingTime" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=204 StartCharacterOffset=0 EndLineNumber=204 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=GeneratingFileName OverloadingParameters=[@8]))" Category="CodeSchema_Method" Bounds="93.5175967452626,167.88,144.333333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="GeneratingFileName" FunctionTypeFlags="Method" Label="GeneratingFileName" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=376 StartCharacterOffset=0 EndLineNumber=376 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=InMainDispatch OverloadingParameters=[(@5 @6 Type=Action)]))" Category="CodeSchema_Method" Bounds="719.903165575565,167.88,118.536666666667,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="InMainDispatch" FunctionTypeFlags="Method" Label="InMainDispatch" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=394 StartCharacterOffset=0 EndLineNumber=394 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=OnAppExit OverloadingParameters=[@10,(@7 @6 Type=EventArgs)]))" Category="CodeSchema_Method" Bounds="553.336892251551,111.92,92.2333333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="OnAppExit" FunctionTypeFlags="Method" Label="OnAppExit" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=448 StartCharacterOffset=0 EndLineNumber=448 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=ParsingTime OverloadingParameters=[@8,@18,@18,@18,@18]))" Category="CodeSchema_Method" Bounds="1032.16873232219,111.92,100.663333333333,25.96" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsStatic="True" CommonLabel="ParsingTime" FunctionTypeFlags="Method" Label="ParsingTime" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=301 StartCharacterOffset=0 EndLineNumber=301 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=Start OverloadingParameters=[@8,@8,(@7 @6 Type=Boolean)]))" Category="CodeSchema_Method" Bounds="174.559594853603,111.92,60.7866666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Start" FunctionTypeFlags="Method" Label="Start" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=240 StartCharacterOffset=0 EndLineNumber=240 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=TextBox_Drop OverloadingParameters=[@10,(@13 Namespace=System.Windows Type=DragEventArgs)]))" Category="CodeSchema_Method" Bounds="248.971551248694,55.9599999999999,109.203333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="TextBox_Drop" FunctionTypeFlags="Method" Label="TextBox_Drop" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=147 StartCharacterOffset=0 EndLineNumber=147 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=(Name=TextBox_PreviewDragOver OverloadingParameters=[@10,(@13 Namespace=System.Windows Type=DragEventArgs)]))" Category="CodeSchema_Method" Bounds="388.174984582027,55.9599999999999,174.31,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="TextBox_PreviewDragOver" FunctionTypeFlags="Method" Label="TextBox_PreviewDragOver" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=141 StartCharacterOffset=0 EndLineNumber=141 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=.ctor)" Category="CodeSchema_Method" Bounds="804.86851791536,55.9599999999999,106.256666666667,25.96" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="MainWindow" FunctionTypeFlags="Constructor" Label="MainWindow" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=36 StartCharacterOffset=0 EndLineNumber=36 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=AnonymousMethod__2)" Category="CodeSchema_Method" Bounds="549.845986970904,335.923088589645,157.843333333333,25.96" CodeSchemaProperty_IsAnonymous="True" Label="AnonymousMethod__2" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=196 StartCharacterOffset=0 EndLineNumber=196 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@2 @3 @4 Member=AnonymousMethod__a)" Category="CodeSchema_Method" Bounds="660.853749770495,279.963088589645,157.48,25.96" CodeSchemaProperty_IsAnonymous="True" Label="AnonymousMethod__a" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=410 StartCharacterOffset=0 EndLineNumber=410 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(Name=mkvsplit.MainWindow.Regexes.Regexes @1 Type=void IsUnresolved=True)" Category="CodeSchema_CallStackUnresolvedMethod" Bounds="907.566465971229,111.92,79.6733333333334,25.96" Label="Regexes" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=454 StartCharacterOffset=0 EndLineNumber=454 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_Method" Bounds="399.956298908898,197.579901042778,136.286666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="UpdateLogTextbox" FunctionTypeFlags="Method" Label="UpdateLogTextbox" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=198 StartCharacterOffset=0 EndLineNumber=198 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@14" Category="CodeSchema_Method" Bounds="566.243065575565,167.88,123.66,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="OnProcessExited" FunctionTypeFlags="Method" Label="OnProcessExited" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=442 StartCharacterOffset=0 EndLineNumber=442 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_Method" Bounds="94.3114512486936,55.9599999999999,124.66,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ButtonSplit_Click" FunctionTypeFlags="Method" Label="ButtonSplit_Click" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=77 StartCharacterOffset=0 EndLineNumber=77 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@17" Category="CodeSchema_Method" Bounds="941.125284582027,55.9599999999999,134.69,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="TextBox_LostFocus" FunctionTypeFlags="Method" Label="TextBox_LostFocus" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=166 StartCharacterOffset=0 EndLineNumber=166 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@19" Category="CodeSchema_Method" Bounds="675.570325584885,111.92,81.3133333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ActCycle" FunctionTypeFlags="Method" Label="ActCycle" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/TaskManager.cs StartLineNumber=39 StartCharacterOffset=0 EndLineNumber=39 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_Method" Bounds="566.243065575565,223.84,157.843333333333,25.96" CodeSchemaProperty_IsAnonymous="True" Label="AnonymousMethod__6" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/MainWindow.xaml.cs StartLineNumber=400 StartCharacterOffset=0 EndLineNumber=400 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@9" Category="CodeSchema_Method" Bounds="527.076971316943,279.8,57.8733333333334,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Add" FunctionTypeFlags="Method" Label="Add" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///e:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/TaskManager.cs StartLineNumber=21 StartCharacterOffset=0 EndLineNumber=21 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="535.149432195372,0,92.9866666666667,25.96" Label="External Code">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@12" Target="@9" Category="CallStackDirectCall" Bounds="481.97853129882,223.53989074707,53.5829539496242,50.1125574016182" />
+    <Link Source="@14" Target="@9" Category="CallStackDirectCall" Bounds="556.040100097656,193.839996337891,43.5941772460938,76.9599914550781" />
+    <Link Source="@16" Target="(@2 @3 @4 Member=(Name=CheckingFileExisting OverloadingParameters=[@8,@8]))" Category="CallStackDirectCall" Bounds="98.815347053773,81.919998626709,38.091738038956,25.054289866218" />
+    <Link Source="@16" Target="(@2 @3 @4 Member=(Name=GeneratingFileName OverloadingParameters=[@8]))" Category="CallStackDirectCall" Bounds="157.69020509463,81.919998626709,6.22049699127587,76.98923560706" />
+    <Link Source="@16" Target="(@2 @3 @4 Member=(Name=Start OverloadingParameters=[@8,@8,(@7 @6 Type=Boolean)]))" Category="CallStackDirectCall" Bounds="167.847373535908,81.919998626709,20.0182974749094,23.1875348761489" />
+    <Link Source="@17" Target="(@2 @3 @4 Member=(Name=ConvertingTime OverloadingParameters=[@8,@8,@8,@8,@18]))" Category="CallStackDirectCall" Bounds="1007.67454130641,81.919998626709,0.680921970344002,76.9603542308794" />
+    <Link Source="@17" Target="(@2 @3 @4 Member=(Name=ParsingTime OverloadingParameters=[@8,@18,@18,@18,@18]))" Category="CallStackDirectCall" Bounds="1025.64168106784,81.919998626709,32.5077259401255,24.5728889374704" />
+    <Link Source="@17" Target="(Name=mkvsplit.MainWindow.Regexes.Regexes @1 Type=void IsUnresolved=True)" Category="CallStackIndirectCall" Bounds="968.203125629748,81.919998626709,26.1025664884397,23.9195580171274" Label="External Code" LabelBounds="900.390890611404,82.4251395519055,72.9866666666667,15.96" />
+    <Link Source="@19" Target="(@2 @3 @4 Member=(Name=InMainDispatch OverloadingParameters=[(@5 @6 Type=Action)]))" Category="CallStackDirectCall" Bounds="730.827051833769,137.880001525879,27.0181762340458,24.0201668603826" />
+    <Link Source="@20" Target="(@2 @3 @4 Member=AnonymousMethod__2)" Category="CallStackDirectCall" Bounds="631.969334686638,249.79999206543,11.2964784972758,77.2178886569583" />
+    <Link Source="@20" Target="(@2 @3 @4 Member=AnonymousMethod__a)" Category="CallStackDirectCall" Bounds="667.004008735361,249.79999206543,43.013752009469,25.5648470370522" />
+    <Link Source="ExternalCodeRootNode" Target="(@2 @3 @4 Member=(Name=ButtonMmgPathOpen_Click @15))" Category="CallStackIndirectCall" Bounds="605.309689345238,25.9599995422363,46.8090201408189,25.6721564573762" />
+    <Link Source="ExternalCodeRootNode" Target="(@2 @3 @4 Member=(Name=ButtonOpen_Click @15))" Category="CallStackIndirectCall" Bounds="511.992950439453,25.9599990844727,68.1686096191406,83.4791717529297" />
+    <Link Source="ExternalCodeRootNode" Target="(@2 @3 @4 Member=(Name=OnAppExit OverloadingParameters=[@10,(@7 @6 Type=EventArgs)]))" Category="CallStackIndirectCall" Bounds="583.036865234375,25.9599990844727,12.0301513671875,77.1367950439453" />
+    <Link Source="ExternalCodeRootNode" Target="(@2 @3 @4 Member=(Name=TextBox_Drop OverloadingParameters=[@10,(@13 Namespace=System.Windows Type=DragEventArgs)]))" Category="CallStackIndirectCall" Bounds="366.834977165214,22.3365329621974,168.314450731922,33.8723784772502" />
+    <Link Source="ExternalCodeRootNode" Target="(@2 @3 @4 Member=(Name=TextBox_PreviewDragOver OverloadingParameters=[@10,(@13 Namespace=System.Windows Type=DragEventArgs)]))" Category="CallStackIndirectCall" Bounds="507.953464854086,25.9599995422363,49.0298997066218,25.8079346674509" />
+    <Link Source="ExternalCodeRootNode" Target="(@2 @3 @4 Member=.ctor)" Category="CallStackIndirectCall" Bounds="628.136094563802,22.394612654614,168.008909667064,34.020767506764" />
+    <Link Source="ExternalCodeRootNode" Target="@12" Category="CallStackIndirectCall" Bounds="484.443450927734,25.9599990844727,95.7181091308594,164.655632019043" />
+    <Link Source="ExternalCodeRootNode" Target="@14" Category="CallStackIndirectCall" Bounds="581.759033203125,25.9599990844727,72.44287109375,133.799629211426" />
+    <Link Source="ExternalCodeRootNode" Target="@16" Category="CallStackIndirectCall" Bounds="227.878494262695,18.357494354248,307.270919799805,40.2634162902832" />
+    <Link Source="ExternalCodeRootNode" Target="@17" Category="CallStackIndirectCall" Bounds="628.136108398438,18.2995128631592,304.082397460938,39.5823574066162" />
+    <Link Source="ExternalCodeRootNode" Target="@19" Category="CallStackIndirectCall" Bounds="581.759033203125,25.9599990844727,85.0704956054688,86.8205871582031" />
+    <Link Source="ExternalCodeRootNode" Target="@20" Category="CallStackIndirectCall" Bounds="547.68798828125,25.9599990844727,53.85498046875,194.72437286377" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="Call Stack direct call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack direct call" OutgoingActionLabel="Call Stack direct call" />
+    <Category Id="CallStackEntry" Label="Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Call Stack Entry" />
+    <Category Id="CallStackIndirectCall" Label="Call Stack indirect call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack indirect call" OutgoingActionLabel="Call Stack indirect call" />
+    <Category Id="CodeSchema_CallStackUnresolvedMethod" Label="Unresolved Method" CanBeDataDriven="True" DefaultAction="Microsoft.AllOutBoundLinks" IsProviderRoot="False" NavigationActionLabel="Unresolved Method" />
+    <Category Id="CodeSchema_Member" Label="Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_SourceLocation" Label="Source Location" Icon="File" />
+    <Category Id="ExternalCallStackEntry" Label="External Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="External Call Stack Entry" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsAnonymous" Label="Is Anonymous" Description="Flag indicating if this delegate, type, or method is anonymous" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Is Constructor" Description="Flag to indicate the method is a constructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Is Private" Description="Flag to indicate the scope is Private" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsStatic" Label="Is Static" Description="Flag to indicate the member is a static member" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="LabelBounds" DataType="System.Windows.Rect" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Start Line Number" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="IsUnresolved" Label="Is Unresolved" ValueType="System.String" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParamKind" Label="Parameter Kind" ValueType="Microsoft.VisualStudio.GraphModel.CodeSchema.ParamKind" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=mkvsplit.exe" />
+    <Alias n="2" Uri="Assembly=$(1b1e2038-96be-4409-96f5-7115cc3e89c2.OutputPathUri)" />
+    <Alias n="3" Id="Namespace=mkvsplit" />
+    <Alias n="4" Id="Type=MainWindow" />
+    <Alias n="5" Uri="Assembly=$(FxReferenceAssembliesUri)/v3.5/System.Core.dll" />
+    <Alias n="6" Id="Namespace=System" />
+    <Alias n="7" Uri="Assembly=$(FxRootUri)/v2.0.50727/mscorlib.dll" />
+    <Alias n="8" Id="(@7 @6 Type=String)" />
+    <Alias n="9" Id="(@2 @3 Type=TaskManager Member=(Name=Add OverloadingParameters=[(@5 @6 Type=Action),(@5 @6 Type=Action)]))" />
+    <Alias n="10" Id="(@7 @6 Type=Object)" />
+    <Alias n="11" Uri="Assembly=$(FxRootUri)/v2.0.50727/System.dll" />
+    <Alias n="12" Id="(@2 @3 @4 Member=(Name=UpdateLogTextbox OverloadingParameters=[@10,(@11 Namespace=System.Diagnostics Type=DataReceivedEventArgs)]))" />
+    <Alias n="13" Uri="Assembly=$(FxReferenceAssembliesUri)/v3.0/PresentationCore.dll" />
+    <Alias n="14" Id="(@2 @3 @4 Member=(Name=OnProcessExited OverloadingParameters=[@10,(@7 @6 Type=EventArgs)]))" />
+    <Alias n="15" Id="OverloadingParameters=[@10,(@13 Namespace=System.Windows Type=RoutedEventArgs)]" />
+    <Alias n="16" Id="(@2 @3 @4 Member=(Name=ButtonSplit_Click @15))" />
+    <Alias n="17" Id="(@2 @3 @4 Member=(Name=TextBox_LostFocus @15))" />
+    <Alias n="18" Id="(@7 @6 Type=String ParamKind=Ref)" />
+    <Alias n="19" Id="(@2 @3 Type=TaskManager Member=ActCycle)" />
+    <Alias n="20" Id="(@2 @3 @4 Member=AnonymousMethod__6)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Call Stack Node" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External Call Stack Entry" ValueLabel="True">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="1b1e2038-96be-4409-96f5-7115cc3e89c2.OutputPathUri" Value="file:///E:/Dropbox/Dropbox/Public/mkvsplit/mkvsplit/MyYoutube-DL/bin/Release/mkvsplit.exe" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+    <Path Id="FxRootUri" Value="file:///C:/Windows/Microsoft.NET/Framework" />
+  </Paths>
+</DirectedGraph>
